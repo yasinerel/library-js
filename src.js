@@ -14,6 +14,5 @@ function addBookToLibrary() {
 }
 
 addBookToLibrary();
-
 console.log("deneme");
 console.log(myLibrary);
